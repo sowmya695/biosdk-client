@@ -66,7 +66,7 @@
         <springframework.version>5.0.6.RELEASE</springframework.version>
 
         <!-- Kernel -->
-        <kernel.logger.logback.version>1.2.0</kernel.logger.logback.version>
+        <kernel.logger.logback.version>1.2.0.1-SNAPSHOT</kernel.logger.logback.version>
     </properties>
 
     <dependencies>
